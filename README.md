@@ -2,6 +2,10 @@
 
 This code is a simple Unofficial Anonfiles uploader with Graphical User Interface (GUI) built using PyQt5 library in Python. It allows users to select a file from their local storage, upload it to Anonfiles.com, and display the generated download URL.
 
+### Built With
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ## Features
 - GUI interface for ease of use.
 - Allows selection of any file from local storage to upload.
