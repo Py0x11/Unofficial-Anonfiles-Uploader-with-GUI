@@ -9,6 +9,7 @@ This code is a simple Unofficial Anonfiles uploader with Graphical User Interfac
 ## Features
 - GUI interface for ease of use.
 - Allows selection of any file from local storage to upload.
+- Upto 20 GB filesize limit and unlimited bandwidth
 - Displays the file size in KB or MB.
 - Displays upload progress with a progress bar.
 - Displays the generated download URL.
@@ -21,13 +22,13 @@ This code is a simple Unofficial Anonfiles uploader with Graphical User Interfac
 
 ## Installation
 1. Clone or download the repository.
-2. Install PyQt5 and requests modules using pip. `pip install PyQt5 requests`
-3. Run the script. `python uploader.py`
+2. Install PyQt5 and requests modules using pip. `python -m pip install -r requirements.txt`
+3. Run the script. `python Main.py`
 4. You should see the application window.
 
 ## Usage
 1. Click the "Browse" button to select the file you want to upload.
-2. Once the file is selected, its file path will be displayed in the "Upload Path" text box and the file size will be displayed in the "File Size" label.
+2. Once the file is selected, its file path will be displayed in the "Upload Path" text box and the file size will be displayed in the "File Size" Section.
 3. Click the "Upload" button to start the upload process.
 4. The upload progress will be displayed on the progress bar.
 5. Once the upload is complete, the generated download URL will be displayed in the "Upload URL" text box.
