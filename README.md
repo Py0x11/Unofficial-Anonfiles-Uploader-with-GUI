@@ -34,7 +34,7 @@ This code is a simple Unofficial Anonfiles uploader with Graphical User Interfac
 5. Once the upload is complete, the generated download URL will be displayed in the "Upload URL" text box.
 6. The uploaded file details, including the URL, will be saved to the "Uploads.txt" file.
 
-##For People Who Just Want to Try the Uploader
+## For People Who Just Want to Try the Uploader
 
 
 ## Disclaimer
